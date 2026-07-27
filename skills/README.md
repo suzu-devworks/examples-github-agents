@@ -11,6 +11,8 @@
 
 - `markdown-quality`: A skill for ensuring the quality of Markdown files in a repository, including formatting and linting.
 
+- `skill-authoring`: A skill for keeping SKILL.md descriptions consistent when creating or maintaining skills.
+
 - `readme-examples`: A skill for generating example code snippets for README files based on the repository's codebase.
 
 - `add-dotnet-framework-badge`: A skill for adding or updating a README .NET Framework badge using shields.io

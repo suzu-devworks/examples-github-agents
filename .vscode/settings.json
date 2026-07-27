@@ -9,5 +9,9 @@
     "LICENSE": "plaintext"
   },
   "editor.formatOnPaste": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "chat.tools.terminal.autoApprove": {
+    "npx markdownlint-cli2": true,
+    "gh": true
+  }
 }

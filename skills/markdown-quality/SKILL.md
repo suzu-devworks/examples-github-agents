@@ -1,6 +1,8 @@
 ---
 name: markdown-quality
-description: Keep Markdown files consistently formatted and lint-free after editing.
+description: |
+  Keep Markdown files consistently formatted and lint-free. Run the formatter and markdown lint after creating or editing Markdown files. 
+  Use when creating a new Markdown file, editing an existing Markdown file, or checking Markdown quality.
 ---
 
 # Markdown Quality

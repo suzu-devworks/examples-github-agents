@@ -17,3 +17,6 @@ logs
 !.vscode/*.code-snippets
 !.vscode/cspell.json
 !.vscode/mcp.json
+
+## agents files
+.agents/

@@ -1,6 +1,8 @@
 ---
 name: readme-examples
-description: Write and refine README files for repositories in the examples collection.
+description: |
+  Write and refine README files for repositories in the examples collection. Use the repository-specific guides to choose sections, tone, and scope.
+  Use when creating a new README, revising an examples repository README, or checking whether a README matches the examples collection guidance.
 ---
 
 # README for Examples Collection

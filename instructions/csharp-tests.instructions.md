@@ -10,7 +10,8 @@ applyTo: "src/**/*{Test,Tests}.cs"
 - Use BDD-style test names.
   - `When_SigningAndVerifying_Then_Success`
   - `When_ExportedAndImported_Then_PrivateKeyIsRestored`
-- For unit tests where the target is clearly defined, create an inner class named after the target and place the tests within it. Examples:
+- For unit tests where the target is clearly defined,
+  create an inner class named after the target and place the tests within it. Examples:
   - For constructor variations: `public sealed class Constructor`
   - For the "InvokeAsync" method: `public sealed class InvokeAsyncMethod`
 - Use `TestContext.Current.CancellationToken` for async tests.

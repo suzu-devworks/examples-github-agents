@@ -20,3 +20,5 @@ logs
 
 ## agents files
 .agents/
+.github/
+!.github/dependabot.yml

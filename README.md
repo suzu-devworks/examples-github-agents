@@ -15,6 +15,4 @@ Above all, I am deeply interested in the underlying mechanisms of how these agen
 This repository mainly documents:
 
 - Copilot instruction patterns for coding and testing workflows.
-- Reusable skill packages for README writing, repository instruction discovery/refinement,
-  and guided questioning.
-- Examples of repository-level conventions for AI-assisted development.
+- Reusable skill packages.

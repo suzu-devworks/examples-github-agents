@@ -1,23 +1,36 @@
 # AGENTS
 
-## General Rules
+## Purpose
 
-- Think in English.
-- Respond in Japanese.
-- Write code, comments, and documentation in English.
+- To maintain a collection of custom files for GitHub Copilot that can be used across other repositories.
+- To preserve existing implementations as a record of learning.
+- To implement improvements if better approaches are discovered.
 
-- Preserve existing conventions.
-- Prefer simple implementations.
-- Keep diffs minimal and reviewable.
+## Project Structure
 
-- For complex, ambiguous, or high-impact tasks, align on the approach before making substantial changes.
-- Ask before dependency changes.
-- Ask before breaking changes.
+- Files here are not placed in folders directly referenced by GitHub Copilot, such as `/.github` or `/.agents`.
+- While files may be placed in `/.github` or `/.agents` for testing purposes, they must not be included in repository commits.
 
-- Never commit secrets.
-- Validate changes after editing.
-- Output only code when explanation is unnecessary.
+## Architecture
 
-## Additional Guidance
+- Although the primary target is GitHub Copilot, priority is given to content and configurations that are compatible
+  with other AI agents whenever possible.
 
-Consult the relevant instruction or skill for language-specific rules, documentation, testing, or repository-specific workflows.
+## Design Principles
+
+- Source code, comments, and documentation must all be written in English.
+- Adhere to existing conventions.
+- Prioritize simple implementations.
+- Prioritize the use of modern language features if they improve readability or maintainability.
+
+## Workflow
+
+- Keep diffs minimal to ensure they are reviewable.
+- For complex, ambiguous, or high-impact tasks, align on the approach before making significant changes.
+- Do not add or update dependencies without prior confirmation.
+- Always seek confirmation before making breaking changes.
+- Verify changes after editing.
+
+## Boundaries
+
+- Do not create pull requests or perform operations on remote repositories unless instructed to do so.

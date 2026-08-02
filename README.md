@@ -2,24 +2,17 @@
 
 ## What is this repository?
 
-This repository records examples for working with GitHub Copilot in day-to-day development.
+This repository serves as a concise knowledge base of use cases for leveraging GitHub Copilot in daily development.
 
-Within the examples collection, it serves as a small knowledge base focused on practical
-instruction files and skills that can be reused and adapted in other repositories.
+This content is based on ongoing research and is subject to change as workflows and tools evolve.
 
-The content reflects ongoing exploration and may change as workflows and tools evolve.
+I love writing code and have absolutely no intention of letting AI agents deprive me of that joy.
+However, I dislike tedious tasks and welcome AI agents that can offer advice as mentors.
+Above all, I am deeply interested in the underlying mechanisms of how these agents generate code.
 
 ## What topics are covered?
 
 This repository mainly documents:
 
 - Copilot instruction patterns for coding and testing workflows.
-- Reusable skill packages for README writing, repository instruction discovery/refinement,
-  and guided questioning.
-- Examples of repository-level conventions for AI-assisted development.
-
-## Development environment
-
-Development is expected to run in a Dev Container so tools and runtime versions stay consistent.
-
-Container settings are defined in [.devcontainer/devcontainer.json](.devcontainer/devcontainer.json).
+- Reusable skill packages.

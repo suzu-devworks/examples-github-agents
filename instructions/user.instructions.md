@@ -3,9 +3,7 @@ description: Instructions common to all repositories. Here, I list only my langu
 applyTo: "**"
 ---
 
-# My Instructions
-
-## General Rules
+# General Rules
 
 - Think in English.
 - Respond in Japanese.
